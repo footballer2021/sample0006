@@ -1,3 +1,4 @@
+alert("デモサイトです。");
 //jQuery
 $(function(){
     
